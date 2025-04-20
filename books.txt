@@ -1,0 +1,3 @@
+B001,Python Basics,True
+B002,Data Science 101,True
+B003,Machine Learning,False
